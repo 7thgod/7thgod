@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7thgod
 - 👀 I’m interested in Web App Development
-- 🌱 I’m currently learning Advanced Java
+- 🌱 I’m a Senior Java Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
